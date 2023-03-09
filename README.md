@@ -1,2 +1,2 @@
 # CPPPractics
-С++ Practics
+All programming practices from the university/
